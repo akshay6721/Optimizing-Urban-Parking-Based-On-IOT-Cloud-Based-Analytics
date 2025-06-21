@@ -184,8 +184,8 @@ SOURCE SmartParkingSys.sql;
 
 ## 🧑‍💼 Author
 
-**Ashutosh Shinde**
-📧 [ashutoshshinde1301@gmail.com](mailto:ashutoshshinde1301@gmail.com)
-🔗 [LinkedIn](https://in.linkedin.com/in/ashutoshshinde01)
+**Akshay Umbarge**
+📧 [akshayumbarge6721@gmail.com](mailto:akshayumbarge6721@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/akshay-umbarge-5b185a1bb/)
 
 ---
