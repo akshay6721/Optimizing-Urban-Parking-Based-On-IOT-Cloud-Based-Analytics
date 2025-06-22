@@ -56,7 +56,6 @@ smartcarparking/
 - MySQL Server + Workbench
 - Git
 
----
 
 ### ✅ Clone the Repository
 
