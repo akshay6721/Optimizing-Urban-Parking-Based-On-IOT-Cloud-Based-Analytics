@@ -6,7 +6,23 @@ This is a web-based **Smart Parking Slot Booking System** built with **Django**,
 
 ## 📁 Project Structure
 
-<pre> ``` smartcarparking/ │ ├── accounts/ # Django app │ ├── migrations/ │ ├── templates/ │ │ └── accounts/ │ │ └── bookings/ │ │ ├── bookings.html │ │ ├── availability.html │ │ └── ... │ ├── static/ # Static files (optional) │ ├── models.py # Parking, User models │ ├── views.py # Booking & Availability views │ └── ... ├── smartcarparking/ # Project settings ├── manage.py └── README.md ``` </pre>
+smartcarparking/
+│
+├── accounts/ # Django app
+│ ├── migrations/
+│ ├── templates/
+│ │ └── accounts/
+│ │ └── bookings/
+│ │ ├── bookings.html
+│ │ ├── availability.html
+│ │ └── ...
+│ ├── static/ # Static files (optional)
+│ ├── models.py # Parking, User models
+│ ├── views.py # Booking & Availability views
+│ └── ...
+├── smartcarparking/ # Project settings
+├── manage.py
+└── README.md
 
 ## ⚙️ Technologies Used
 
