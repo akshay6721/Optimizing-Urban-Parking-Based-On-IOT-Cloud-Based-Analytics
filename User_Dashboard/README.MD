@@ -62,6 +62,7 @@ smartcarparking/
 ```bash
 git clone https://github.com/your-username/smart-parking-system.git
 cd smart-parking-system
+```
 
 
 ## 📁 Repository Structure
